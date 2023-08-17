@@ -1,6 +1,6 @@
 # Scarab: 
 
-Issue tracking and documentation for Scarab.
+Issue tracking and documentation for Scarab. (https://github.com/giild/ScarabApp/images/kscarab_bw_256_icon.png)
 
 ## About Scarab
 Scarab is a visualization and debugging tool for machine learning models. Understanding model weights is challenging
