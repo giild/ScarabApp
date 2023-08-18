@@ -4,7 +4,15 @@
 Issue tracking and documentation for Scarab.
 
 ## About Scarab
-Scarab is a visualization and debugging tool for machine learning models. Understanding model weights is challenging
+Scarab is a visualization and debugging tool for machine learning models. 
+
+### Heatmap
+
+![Diff between checkpoint Heatmap](./screenshot/diff_heatmap.png)
+
+### Profile and debug bad predictions
+
+![Layer Activation Output](./screenshot/profile_activation_heatmap.png)
 
 ## Where to get Scarab
 During the beta testing period, you can signup for the beta program https://www.giild.com/
