@@ -14,6 +14,14 @@ Scarab is a visualization and debugging tool for machine learning models.
 
 ![Layer Activation Output](./screenshot/profile_activation_heatmap.png)
 
+### View Test Dataset errors
+
+![Test Dataset errors](./screenshot/epoch_test_img_report.png)
+
+### Accuracy & Loss Chart
+
+![Training accuracy and Loss](./screenshot/hdf5_model_list.png)
+
 ## Where to get Scarab
 During the beta testing period, you can signup for the beta program https://www.giild.com/
 
