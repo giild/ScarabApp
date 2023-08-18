@@ -56,5 +56,10 @@ We value honest feedback and it's critical for the long term health of the appli
 1. Provide a detailed description of the feature
 2. Explain why you feel it would be useful
 3. Include any screencaps or mockups that might help us prioritize the feature
+
 ### General Feedback
 
+1. Anything that isn't a bug or feature request is considered general feedback
+2. Questions about documentation
+3. Questions about product roadmap
+   
