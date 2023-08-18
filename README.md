@@ -36,3 +36,25 @@ During the beta testing period, you can signup for the beta program https://www.
 ## Issue Guidelines
 We value feedback and want to hear you. Please review the issues guidelines before submitting a new issue. This helps us manage and prioritize the issues. It also helps users search the issues and get the information quickly.
 
+### Etiquette
+
+We value honest feedback and it's critical for the long term health of the application. 
+
+1. avoid name calling and shouting with all caps
+2. avoid profanity or NSFW
+3. avoid hijacking other people's issue tickets
+
+### Bugs
+
+1. Include system and build information
+2. Include any errors or relevant logs
+3. If you can provide a repeatable test case, please attach it to the issue or provide a link to download the material
+4. Include a description of the steps to reproduce the bug
+
+### Feature Request
+
+1. Provide a detailed description of the feature
+2. Explain why you feel it would be useful
+3. Include any screencaps or mockups that might help us prioritize the feature
+### General Feedback
+
