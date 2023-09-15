@@ -1,10 +1,11 @@
 # pocketai: 
 
-![Scarab Icon](https://github.com/giild/pocketaiApp/blob/main/images/kscarab_bw_256_icon.png)
-Issue tracking and documentation for Scarab.
+![pocketai Icon](https://github.com/giild/pocketaiApp/blob/main/images/pocketai_256.png)
 
-## About Scarab
-Scarab is a visualization and debugging tool for machine learning models. 
+Issue tracking and documentation for pocketai.
+
+## About pocketai
+pocketai is a visualization and debugging tool for machine learning models. 
 
 ### Heatmap
 
@@ -30,7 +31,7 @@ Quickly view the prediction accuracy for the test dataset.
 
 Accuracy and loss chart for the training session.
 
-## Where to get Scarab
+## Where to get pocketai
 During the beta testing period, you can signup for the beta program https://www.giild.com/
 
 ## Issue Guidelines
