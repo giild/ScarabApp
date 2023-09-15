@@ -1,6 +1,6 @@
 # pocketai: 
 
-![Scarab Icon](https://github.com/giild/ScarabApp/blob/main/images/kscarab_bw_256_icon.png)
+![Scarab Icon](https://github.com/giild/pocketaiApp/blob/main/images/kscarab_bw_256_icon.png)
 Issue tracking and documentation for Scarab.
 
 ## About Scarab
