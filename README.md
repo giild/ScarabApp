@@ -1,6 +1,7 @@
 # pocketai: 
 
 ![pocketai Icon](https://github.com/giild/pocketaiApp/blob/main/images/pocketai_256.png)
+
 Issue tracking and documentation for pocketai.
 
 ## About pocketai
