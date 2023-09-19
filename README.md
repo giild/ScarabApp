@@ -27,6 +27,9 @@ lite is a free MacOS app for machine learning development. It provides a subset 
 | compare weights of any 2 epochs      | v1 beta  |      |
 | execute python scripts from app      | v2       |      |
 | visualize model graph                | v2       |      |
+| support pytorch model                | v2       |      |
+| support ONNX model                   | v2       |      |
+
 
 ### Heatmap
 
