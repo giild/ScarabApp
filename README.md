@@ -23,7 +23,9 @@ lite is a free MacOS app for machine learning development. It provides a subset 
 | heatmap of diff between epochs       | v1 beta  |      |
 | heatmap of layer activations         | v1 beta  |      |
 | heatmap of diff between activations  | v1 beta  |      |
-| execute python scripts               | v2       |      |
+| avg the weight of 2 epochs           | v1 beta  |      |
+| compare weights of any 2 epochs      | v1 beta  |      |
+| execute python scripts from app      | v2       |      |
 | visualize model graph                | v2       |      |
 
 ### Heatmap
