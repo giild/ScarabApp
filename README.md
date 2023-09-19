@@ -9,7 +9,7 @@ Issue tracking and documentation for pocketai and pocketai lite.
 pocketai is a visualization and debugging tool for machine learning models. 
 
 ## About pocketai lite
-lite is a free MacOS app for machine learning development. It provides a subset of features in pocketai. The lite version doesn't have the debugging or model visualization features. To signup for pocketai beta program, please visit the link below.
+lite is a free MacOS app for machine learning development. It provides a subset of features in pocketai. The lite version doesn't have the debugging or model visualization features. To signup for pocketai beta program, please visit the link https://www.giild.com/
 
 ## Feature Table
 
