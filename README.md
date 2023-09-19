@@ -19,6 +19,10 @@ lite is a free MacOS app for machine learning development. It provides a subset 
 | test dataset results              | X        | X    |
 | search and filter test results    | X        | X    |
 | record prediction for all epochs  | X        | X    |
+| heatmap of model weights          | X        |      |
+| heatmap of diff between epochs    | X        |      |
+| heatmap of runtime profile        | X        |      |
+| heatmap of diff between profiles  | X        |      |
 
 
 ### Heatmap
