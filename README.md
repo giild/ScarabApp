@@ -15,14 +15,14 @@ lite is a free MacOS app for machine learning development. It provides a subset 
 
 | Feature                           | pocketai | lite |
 |-----------------------------------|----------|------|
-| accuracy & loss chart             | X        | X    |
-| test dataset results              | X        | X    |
-| search and filter test results    | X        | X    |
-| record prediction for all epochs  | X        | X    |
-| heatmap of model weights          | X        |      |
-| heatmap of diff between epochs    | X        |      |
-| heatmap of layer activations      | X        |      |
-| heatmap of diff between profiles  | X        |      |
+| accuracy & loss chart             | v1 beta  | X    |
+| test dataset results              | v1 beta  | X    |
+| search and filter test results    | v1 beta  | X    |
+| record prediction for all epochs  | v1 beta  | X    |
+| heatmap of model weights          | v1 beta  |      |
+| heatmap of diff between epochs    | v1 beta  |      |
+| heatmap of layer activations      | v1 beta  |      |
+| heatmap of diff between profiles  | v1 beta  |      |
 | execute python scripts            | v2       |      |
 | visualize model graph             | v2       |      |
 
