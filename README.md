@@ -36,13 +36,13 @@ Visualize the parameter changes between checkpoint models. When the model overfi
 
 ![Layer Activation Output](./screenshot/profile_activation_heatmap.png)
 
-Visualize the layer activations with heatmaps to get a better understanding why predictions are wrong.
+Visualize the layer activations with heatmaps to get a better understanding why predictions are wrong. Identify common patterns in prediction errors by comparing the output activations.
 
-### View Test Dataset errors
+### View Dataset Results
 
 ![Test Dataset errors](./screenshot/epoch_test_img_report.png)
 
-Quickly view the prediction accuracy for the test dataset.
+View the prediction for the test dataset with thumbnails and quickly identify which records had errors. Search and filter the errors to identify common patterns causing prediction failtures.
 
 ### Accuracy & Loss Chart
 
