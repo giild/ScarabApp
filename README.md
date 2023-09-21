@@ -19,6 +19,7 @@ lite is a free MacOS app for machine learning development. It provides a subset 
 | test dataset results                 | v1 beta  | X    |
 | search and filter test results       | v1 beta  | X    |
 | record prediction for all epochs     | v1 beta  | X    |
+| create accuracy & loss chart for csv | v1 beta  | X    |
 | heatmap of model weights             | v1 beta  |      |
 | heatmap of diff between epochs       | v1 beta  |      |
 | heatmap of layer activations         | v1 beta  |      |
@@ -59,6 +60,12 @@ View the prediction for each image for the entire training session. Bad predicti
 ![Training accuracy and Loss](./screenshot/hdf5_model_list.png)
 
 Accuracy and loss chart for the training session.
+
+### CSV charts
+
+![Training accuracy and Loss](./screenshot/csv_charts.png)
+
+If your python script saves the accuracy and loss for the training session, you can easily render the data in a line chart. The app expects the first column to be the epoch and the remaining columns the accuracy and loss.
 
 ## Where to get pocketai
 During the beta testing period, you can signup for the beta program https://www.giild.com/
