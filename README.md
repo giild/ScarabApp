@@ -49,6 +49,11 @@ Visualize the layer activations with heatmaps to get a better understanding why 
 
 View the prediction for the test dataset with thumbnails and quickly identify which records had errors. Search and filter the errors to identify common patterns causing prediction failtures.
 
+![Test Dataset errors](./screenshot/train_session_error_report.png)
+
+View the prediction for each image for the entire training session. Bad prediction is zero and correct is 1. In a well generalized model, the predictions may start out with bad prediction and gradually get better. If the predictions are all zeros, it means the model never got it correct. If the model got it right in the middle of the training, but then ended up with zeros, it means the model overfit to the training data.
+
+
 ### Accuracy & Loss Chart
 
 ![Training accuracy and Loss](./screenshot/hdf5_model_list.png)
