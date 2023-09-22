@@ -31,6 +31,11 @@ lite is a free MacOS app for machine learning development. It provides a subset 
 | support pytorch model                | v2       |      |
 | support ONNX model                   | v2       |      |
 
+### Documentation
+
+For the complete documentation, please visit the wiki
+
+https://github.com/giild/pocketaiApp/wiki
 
 ### Heatmap
 
