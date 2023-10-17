@@ -30,7 +30,7 @@ lite is a free MacOS app for machine learning development. It provides a subset 
 | heatmap of diff between activations  | v1 beta  |      |
 | avg the weight of 2 epochs           | v1 beta  |      |
 | compare weights of any 2 epochs      | v1 beta  |      |
-| execute python scripts from app      | v2       |      |
+| execute python scripts from app      | v1 beta  |      |
 | visualize model graph                | v2       |      |
 | support pytorch model                | v2       |      |
 | support ONNX model                   | v2       |      |
