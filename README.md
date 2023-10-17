@@ -8,12 +8,12 @@ Issue tracking and documentation for pocket ai and pocket ai lite.
 ## About pocket ai
 pocketai is a visualization and debugging tool for machine learning models. 
 
-![Introduction to pocket ai lite](https://youtu.be/8Y_kTPH7iO8?si=WsXSLwPc9rjtzd7o)
+[![Introduction to pocket ai lite](http://img.youtube.com/vi/or2Vwmdg2Uw/0.jpg)](https://www.youtube.com/watch?v=or2Vwmdg2Uw)
 
 ## About pocket ai lite
 lite is a free MacOS app for machine learning development. It provides a subset of features in pocketai. The lite version doesn't have the debugging or model visualization features. To signup for pocketai beta program, please visit the link https://www.giild.com/
 
-![Introduction to pocket ai lite](https://youtu.be/or2Vwmdg2Uw?si=uaYXgLhAFRWemWHy)
+[![Introduction to pocket ai lite](http://img.youtube.com/vi/uaYXgLhAFRWemWHy/0.jpg)](https://youtu.be/or2Vwmdg2Uw?si=uaYXgLhAFRWemWHy)
 
 ## Feature Table
 
