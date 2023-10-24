@@ -34,6 +34,7 @@ lite is a free MacOS app for machine learning development. It provides a subset 
 | visualize model graph                | v2       |      |
 | support pytorch model                | v2       |      |
 | support ONNX model                   | v2       |      |
+| models greater than 15M parameters   | v3       |      |
 
 ### Documentation
 
