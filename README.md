@@ -1,23 +1,23 @@
-# pocket ai: 
+# poqet ai: 
 
 ![pocketai Icon](https://github.com/giild/pocketaiApp/blob/main/images/pocketai_256.png)
 ![pocketai lite Icon](https://github.com/giild/pocketaiApp/blob/main/images/pocketai-lite_256.png)
 
 Issue tracking and documentation for pocket ai and pocket ai lite.
 
-## About pocket ai
+## About poqet ai
 pocketai is a visualization and debugging tool for machine learning models. 
 
 [![Introduction to pocket ai lite](http://img.youtube.com/vi/8Y_kTPH7iO8/1.jpg)](https://www.youtube.com/watch?v=8Y_kTPH7iO8)
 
-## About pocket ai lite
+## About poqet ai lite
 lite is a free MacOS app for machine learning development. It provides a subset of features in pocketai. The lite version doesn't have the debugging or model visualization features. To signup for pocketai beta program, please visit the link https://www.giild.com/
 
 [![Introduction to pocket ai lite](http://img.youtube.com/vi/or2Vwmdg2Uw/1.jpg)](https://www.youtube.com/watch?v=or2Vwmdg2Uw)
 
 ## Feature Table
 
-| Feature                              | pocketai | lite |
+| Feature                              | poqet ai | lite |
 |--------------------------------------|----------|------|
 | accuracy & loss chart                | v1 beta  | X    |
 | test dataset results                 | v1 beta  | X    |
