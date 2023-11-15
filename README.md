@@ -1,19 +1,19 @@
 # poqet ai: 
 
-![pocketai Icon](https://github.com/giild/pocketaiApp/blob/main/images/pocketai_256.png)
-![pocketai lite Icon](https://github.com/giild/pocketaiApp/blob/main/images/pocketai-lite_256.png)
+![pocketai Icon](https://github.com/giild/poqetaiApp/blob/main/images/pocketai_256.png)
+![pocketai lite Icon](https://github.com/giild/poqetaiApp/blob/main/images/pocketai-lite_256.png)
 
-Issue tracking and documentation for pocket ai and pocket ai lite.
+Issue tracking and documentation for poqet ai and poqet ai lite.
 
 ## About poqet ai
-pocketai is a visualization and debugging tool for machine learning models. 
+poqet ai is a visualization and debugging tool for machine learning models. 
 
 [![Introduction to pocket ai lite](http://img.youtube.com/vi/8Y_kTPH7iO8/1.jpg)](https://www.youtube.com/watch?v=8Y_kTPH7iO8)
 
 ## About poqet ai lite
-lite is a free MacOS app for machine learning development. It provides a subset of features in pocketai. The lite version doesn't have the debugging or model visualization features. To signup for pocketai beta program, please visit the link https://www.giild.com/
+lite is a free MacOS app for machine learning development. It provides a subset of features in poqet ai. The lite version doesn't have the debugging or model visualization features. To signup for poqet ai beta program, please visit the link https://www.giild.com/
 
-[![Introduction to pocket ai lite](http://img.youtube.com/vi/or2Vwmdg2Uw/1.jpg)](https://www.youtube.com/watch?v=or2Vwmdg2Uw)
+[![Introduction to poqet ai lite](http://img.youtube.com/vi/or2Vwmdg2Uw/1.jpg)](https://www.youtube.com/watch?v=or2Vwmdg2Uw)
 
 ## Feature Table
 
@@ -40,7 +40,7 @@ lite is a free MacOS app for machine learning development. It provides a subset 
 
 For the complete documentation, please visit the wiki
 
-https://github.com/giild/pocketaiApp/wiki
+https://github.com/giild/poqetaiApp/wiki
 
 ### Heatmap
 
@@ -77,7 +77,7 @@ Accuracy and loss chart for the training session.
 
 If your python script saves the accuracy and loss for the training session, you can easily render the data in a line chart. The app expects the first column to be the epoch and the remaining columns the accuracy and loss.
 
-## Where to get pocketai
+## Where to get poqet ai
 During the beta testing period, you can signup for the beta program https://www.giild.com/
 
 ## Issue Guidelines
